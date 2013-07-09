@@ -1,0 +1,1 @@
+fontcustom compile svgs -t scss -o ../scss/clank/icon-fonts/app/ -n app -h false -p --font-face-path="../scss/clank/icon-fonts/app" --css-prefix=icon-app- --debug

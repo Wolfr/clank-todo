@@ -1,0 +1,17 @@
+{
+  "fonts": [
+    "app.ttf",
+    "app.woff",
+    "app.eot",
+    "app.svg"
+  ],
+  "templates": [
+    "_fontcustom.scss"
+  ],
+  "file_name": "app",
+  "glyphs": [
+    "add",
+    "list",
+    "minus"
+  ]
+}
